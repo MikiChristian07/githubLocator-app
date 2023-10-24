@@ -22,4 +22,8 @@ class GitHub{
 
     }
 
+    async postUser(){
+        
+    }
+
 }

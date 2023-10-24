@@ -20,7 +20,7 @@ class UI{
                         ${user.followers}</span>
                         <span class="badge bg-info">Following: 
                         ${user.following}</span>
-                        <br><br>
+                        <br><br><br>
                         <ul class="list-group">
                             <li class="list-group-item">Company: ${user.company}</li>
                             <li class="list-group-item">Blog: ${user.blog}</li>
